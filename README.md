@@ -1,1 +1,1 @@
-# MachineLearningPractice
+# MachineLearningTutorial
